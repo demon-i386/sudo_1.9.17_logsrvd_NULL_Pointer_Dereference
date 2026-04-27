@@ -24,3 +24,6 @@ AUTHOR: Pedro Henrique de Almeida Silva <psilva@stacksec.com.br>
 ORGANIZATION: Stack Security Intelligence Research Team
 WEBSITE: https://vanalyze.io
 DATE: 2026-02-21
+
+
+PATCHED IN https://github.com/sudo-project/sudo/commit/e1fad8affe215e402dcaebf3e93bf82c6339afab
